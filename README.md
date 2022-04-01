@@ -1,5 +1,5 @@
 # FindDevs
-A flutter app to find developers. In this app we implemeted with both user and admin panel
+A flutter app to find developers. In this app we implemented with both user and admin panel
 
 # Source code in private repository
 
